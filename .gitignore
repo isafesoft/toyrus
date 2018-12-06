@@ -1,2 +1,7 @@
 .idea/
+.DS_Store
+config/.DS_Store
+src/.DS_Store
+src/containers/.DS_Store
+src/containers/Layout/.DS_Store
 node_modules/
